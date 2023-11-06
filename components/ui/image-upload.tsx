@@ -25,7 +25,6 @@ const ImageUpload: React.FC<ImageUploadProps> = ({
   buttonStyle
 }) => {
   const [isMounted, setIsMounted] = useState(false);
-  const [resource, setResource] = useState();
 
   useEffect(() => {
     setIsMounted(true);
@@ -60,11 +59,7 @@ const ImageUpload: React.FC<ImageUploadProps> = ({
       </div>
       <CldUploadWidget 
       signatureEndpoint='/api/sign-cloudinary-params'
-      uploadPreset="jnhaistr"
-      onUpload={(result: any, widget: any) => {
-        setResource(result?.info);
-        widget.close();
-      }}
+      onUpload={onUpload} uploadPreset="swvwduyf"
       >
         {({ open }) => {
           const onClick = () => {
