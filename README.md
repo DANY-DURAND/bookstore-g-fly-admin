@@ -12,8 +12,8 @@ Deployed with Vercel.
 Fully functional and lightning fast 🚀.
 
 ## LOGIN CREDENTIALS FOR DEMO & TESTING:
-email: codetestonly01@gmail.com
-password: ejslfwenf
+email: danydurannzi00@gmail.com
+password: Dany@@12345
 
 ## Bug
 When you log in you are likely to see the "error occured on client side" popup. Simply reload the page, and it will disappear. 
