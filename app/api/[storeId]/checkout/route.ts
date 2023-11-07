@@ -42,7 +42,7 @@ export async function POST(
         product_data: {
           name: product.name,
         },
-        unit_amount: product.price.toNumber() * 100
+        unit_amount: Math.round(product.price.toNumber() * 100)
       }
     });
   });
@@ -68,7 +68,7 @@ export async function POST(
     mode: 'payment',
     billing_address_collection: "required",
     shipping_address_collection: {
-      allowed_countries: ["CA", "US", "MX"]
+      allowed_countries: ["CA", "US", "MX", "CN"]
     },
     phone_number_collection: {
       enabled: true,
