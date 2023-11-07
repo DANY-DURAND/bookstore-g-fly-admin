@@ -79,6 +79,6 @@ export const columns: ColumnDef<OrderColumn>[] = [
   {
     accessorKey: "isPaid",
     header: "Paid",
-    cell: ({getValue}) => (getValue() ? "Yes" : "No")
+    // cell: ({getValue}) => (getValue() ? "Yes" : "No")
   },
 ];
