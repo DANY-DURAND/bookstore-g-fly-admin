@@ -58,7 +58,7 @@ const ImageUpload: React.FC<ImageUploadProps> = ({
         ))}
       </div>
       <CldUploadWidget 
-      signatureEndpoint='/api/sign-cloudinary-params'
+      // signatureEndpoint='/api/sign-cloudinary-params'
       onUpload={onUpload} uploadPreset="swvwduyf"
       >
         {({ open }) => {
