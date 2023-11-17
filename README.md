@@ -18,6 +18,3 @@ password: Dany@@12345
 ## Bug
 When you log in you are likely to see the "error occured on client side" popup. Simply reload the page, and it will disappear. 
 This doesn't happen on localhost but nevertheless the bug is already being addressed.
-
-## Update Aug 20
-Now fully optimized for all devices, you can even manage your entire inventory and add customers from your phone!
