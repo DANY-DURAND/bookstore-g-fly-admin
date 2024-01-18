@@ -1,0 +1,13 @@
+	G-Fly Luxury Company is wanting to create a top-notch book sales and inventory store system and I need a skilled programmer to make it happen, I’m looking up to you to bring this vision to life.
+	This should allow customers to leave reviews and ratings of the book, the system will also have a user-friendly interface where customers can browse and search for books easily.
+Customers can add books to their shopping cart and proceed to check out with a secure payment system. The system will also manage inventory, automatically updating stock levels and notifying when books are running low.
+	It should also have social capabilities, allowing users to share their favorite books with friends on social media. Last an admin, you’ll have access to comprehensive sales reports, including best-selling books and revenue analysis.
+
+Features:
+- Visitor Reg: Use simple online form where visitors can provide their names, contacts information and any other relevant details.
+
+- Visitor Login: visitors can create an account with their name, email, and a password which allows them to access exclusive features like personalized recommendations, saved preference and even special discount.
+
+- Shopping Cart: allows customer to select and purchase multiple books at once and add books to their cart, view their selections to also buy later or proceed to checkout
+
+- Customer Online Service: allows customers to reach out with any inquiries, concerns or feedback they may have.
